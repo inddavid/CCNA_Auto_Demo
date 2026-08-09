@@ -6,6 +6,7 @@
 def main():
     name = "World"
     print(f"Hello, {name}!")
+    print("Welcome to CCNA AUTO Class")
 
     a = 5
     b = 7
