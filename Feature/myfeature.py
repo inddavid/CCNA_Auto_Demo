@@ -13,3 +13,5 @@ def run_feature(name: str = "World") -> str:
     """Run the basic feature and return the greeting."""
     feature = MyFeature(name)
     return feature.greet()
+
+print("Welcome to DevAsc")
